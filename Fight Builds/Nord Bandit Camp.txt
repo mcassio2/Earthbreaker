@@ -1,0 +1,19 @@
+Spearman
+40/30/30/0  5+3+6+4= 18 Armor   2d6+4+(N)
+Shield Bash/Shield Master/Power Attack/Parry/Shield Parry
+
+Shield Wall Soldiers
+50/30/30/0   5+3+8+6= 22 Armor	2d8+4+(N)
+Shield Bash/Shield Master/Shield Wall/Power Attack/Perfect Control
+
+Bowman
+30/45/30/0    5+4+4= 13 Armor   3d8+4+(N)
+Deadeye/Called Shots/Practiced Swings/Lightning Reflexes/Fist to Face
+
+Chief Man
+55/40/40/30  5+4+13= 22 Armor	3d8+5+(N)
+Power Attack/Perfect Control/Expose Weakness/Leader/Blind Luck/Challenge/Power Ballad
+
+Wizardly Advisor
+30/40/40/50  5+4+6=  15 Armor	2d6+5+(N)
+Fire Blast/Incineration/Explosive/Heal/Metamagic: Area
