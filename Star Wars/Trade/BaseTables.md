@@ -2,15 +2,15 @@
 
 **Trade Goods Types**
 
-| Name             | Base Price | Unit   |
-|------------------|------------|--------|
-| Food             | 20         | CR/ton |
-| Industrial Goods | 80         | CR/ton |
-| Minerals         | 15         | CR/ton |
-| Chemicals        | 20         | CR/ton |
-| Luxury Goods     | 250        | CR/ton |
-| Contraband       | 1250       | CR/ton |
-| Tabanna Gas      | 500        | CR/ton |
+| Name             | Base Price  | Unit   |
+|------------------|-------------|--------|
+| Food             | 5d4 + 2     | CR/ton |
+| Industrial Goods | 20d6 + 20   | CR/ton |
+| Minerals         | 5d20 + 20   | CR/ton |
+| Chemicals        | 4d20 + 25   | CR/ton |
+| Luxury Goods     | 40d10 + 200 | CR/ton |
+| Contraband       | 10d10 + 500 | CR/ton |
+| Tabanna Gas      | 5d10 + 500  | CR/ton |
 
 
 **Quality Grades**
