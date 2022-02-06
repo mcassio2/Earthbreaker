@@ -6,7 +6,7 @@
 |-----------|--------------|---------------------------------------|
 | Coruscant | Commercial   |                                       |
 | Nal Hutta | Criminal     |                                       |
-| Bespin    | Industrial   | (Industrial Goods)*2, (Tabanna Gas)/8 |
+| Bespin    | Industrial   | [Industrial Goods]*2, [Tabanna Gas]/8 |
 | Alderaan  | Agricultural |                                       |
 | Hoth      | Military     |                                       |
 | Quarzite  | Mining       |                                       |

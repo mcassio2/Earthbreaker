@@ -27,12 +27,12 @@
 
 | Name         | Modifiers                                                       |
 |--------------|-----------------------------------------------------------------|
-| Agricultural | (Food)/4, (Industrial Goods)*2                                  |
-| Industrial   | (Industrial Goods)/4, (Food)*2, (Minerals)*4, (Chemicals)*4     |
-| Commercial   | (Food)*2, (Luxury Goods)/2, (Contraband)*2                      |
-| Military     | (Food)*3, (Industrial Goods)*2                                  |
-| Specialty    | (Luxury Goods)/2                                                |
-| Criminal     | (Contraband)/8, (Industrial Goods)*2, (Food)*2                  |
-| Government   | (Food)*2, (Industrial Goods)*2, (Luxury Goods)*6                |
-| Mining       | (Food)*2, (Industrial Goods)*2, (Minerals)/8                    |
-| Refinery     | (Food)*2, (Industrial Goods)*2, (Chemicals)/8                   |
+| Agricultural | [Food]/4, [Industrial Goods]*2                                  |
+| Industrial   | [Industrial Goods]/4, [Food]*2, [Minerals]*4, [Chemicals]*4     |
+| Commercial   | [Food]*2, [Luxury Goods]/2, [Contraband]*2                      |
+| Military     | [Food]*3, [Industrial Goods]*2                                  |
+| Specialty    | [Luxury Goods]/2                                                |
+| Criminal     | [Contraband]/8, [Industrial Goods]*2, [Food]*2                  |
+| Government   | [Food]*2, [Industrial Goods]*2, [Luxury Goods]*6                |
+| Mining       | [Food]*2, [Industrial Goods]*2, [Minerals]/8                    |
+| Refinery     | [Food]*2, [Industrial Goods]*2, [Chemicals]/8                   |
