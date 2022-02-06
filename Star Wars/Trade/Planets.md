@@ -1,6 +1,6 @@
 # Trade Tables - Planets
 
-**Planets**
+**Places**
 
 | Name      | Type         | Special Modifiers                     |
 |-----------|--------------|---------------------------------------|
